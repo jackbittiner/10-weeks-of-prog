@@ -25,3 +25,13 @@ YOU WILL GET THAT AWESOME JOB YOU WANT!
 Good luck!
 
 Jack & Toby (The 10 Weeks of Prog Team)
+
+## Possible Questions
+
+1. Name a time you independently upskilled.
+2. Name a time you went the extra mile.
+3. Name a time you shared knowledge with a co-worker.
+4. Name a time you you worked out of your comfort zone.
+5. Name a time you worked collaboratively with people outside your immediate department.
+6. Name a time you led a workshop.
+7. Name a time ........
